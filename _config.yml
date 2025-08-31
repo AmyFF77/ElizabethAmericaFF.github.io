@@ -1,7 +1,7 @@
 # Site settings
-title: Pablo Villanueva Domingo
+title: Elizabeth América Flores Fías
 #description: 'PhD in Physics at IFIC/UV, Valencia (Spain), specialized in Cosmology and Machine Learning applications'
-description: 'PhD in Physics | Cosmologist | Deep Learning Scientist at CARLA, Computer Vision Center - Universitat Autònoma de Barcelona'
+description: 'PhD in Ch | Cosmologist | Deep Learning Scientist at CARLA, Computer Vision Center - Universitat Autònoma de Barcelona'
 url: ''
 baseurl: ''
 profilepic: '/images/PVD-Bronchales-cropped.jpeg'
@@ -10,12 +10,12 @@ bkimage: '/images/gaussiannoise.png'
 #font_awesome: 'XXXXXXXXXX.js''
 
 author:
-  name: 'Pablo Villanueva Domingo'
-  email: pablo.villanueva.domingo@gmail.com
-  twitter_username: CosmoPabloVD
+  name: 'Elizabeth América Flores Frías'
+  email: therion_ff@hotmail.com
+  twitter_username: 
 #  facebook_username: joshgerdes
-  github_username:  PabloVD
-  linkedin_username:  pablo-villanueva-domingo-76b6491b2
+  github_username:  
+  linkedin_username:  
 #  meetup_name: Azure-Meetup-Rostock-MV
 
 defaults:
